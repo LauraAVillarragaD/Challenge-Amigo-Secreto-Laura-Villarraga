@@ -31,12 +31,11 @@ Para acceder al proyecto se puede descargar de la plataforma GitHub a través de
 
   <h2 align="center"> 6. :bust_in_silhouette: Personas Contribuyentes </h2>
   Alura Latam
- <h2 align="center"> 7. :: Personas Desarrolladores </h2>
+  
+  <h2 align="center"> 7. :: Personas Desarrolladores </h2>
 
-| [<img src="https://avatars.githubusercontent.com/u/37356058?v=4" width=115><br><sub>Camila Fernanda Alves</sub>](https://github.com/camilafernanda)
-
- <h2 align="center"> 8. :: Licencia </h2>
+| [<img src="[https://avatars.githubusercontent.com/u/37356058?v=4](https://avatars.githubusercontent.com/u/137231704?s=400&u=12b42ec4d097f1c7376efb13e64904e47ab3bd1c&v=4)" width=115><br><sub>Laura Villarraga Díaz</sub>](https://github.com/LauraAVillarragaD)|
  
- <h2 align="center"> 9. :: Conclusión </h2>
+ <h2 align="center"> 8. :: Conclusión </h2>
 
 
