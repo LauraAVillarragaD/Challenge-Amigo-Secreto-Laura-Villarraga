@@ -34,8 +34,21 @@ Para acceder al proyecto se puede descargar de la plataforma GitHub a través de
   
   <h2 align="center"> 7. :: Personas Desarrolladores </h2>
 
-| [<img src="[https://avatars.githubusercontent.com/u/37356058?v=4](https://avatars.githubusercontent.com/u/137231704?s=400&u=12b42ec4d097f1c7376efb13e64904e47ab3bd1c&v=4)" width=115><br><sub>Laura Villarraga Díaz</sub>](https://github.com/LauraAVillarragaD)|
+[<br><sub>Laura Villarraga Díaz</sub>](https://github.com/LauraAVillarragaD)
  
  <h2 align="center"> 8. :: Conclusión </h2>
 
+Este proyecto me permitio aplicar los conocimientos adquiridos de los siguientes cursos: 
+  - Lógica de programación: sumérgete en la programación con JavaScript
+  - Lógica de programación: explorar funciones y listas
+  - Git y GitHub: repositorio, commit y versiones
+
+Especificamente los siguientes temas:
+  - Crear variables y definirlas.
+  - Crear listas y trabajar con ellas por medio de la creación de las funciones.
+  - Usar dento de las funciones los lazos de repetición como los loops o los for, que permiten realizar acciones repetidas dentro de una lista de elementos.
+
+Quiero agradecer al programa de formación Principiante en Programación G8 - ONE de la empresa ALURA LATAM, por permitirme ser parte de este proceso formativo y comenzar a aprender sobre programación y aplicar los conocimientos adquiridos por medio de este proyecto. Es importante resaltar que este proyecto esta en proceso de construcción debido a las mejoras que se pueden realizar.
+
+Soy consciente de que este es mi primer paso en este mundo de la programación y que es un proceso constante de aprendizaje.
 
