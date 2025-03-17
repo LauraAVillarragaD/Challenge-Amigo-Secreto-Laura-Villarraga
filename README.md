@@ -19,7 +19,7 @@ Este proyecto en desarrollo busca aplicar los conocimientos obtenidos sobre prog
 
 <h2 align="center"> 4. :open_file_folder: Acceso al proyecto </h2>
 
-Para acceder al proyecto se puede descargar de la plataforma GitHub a través del siguiente link: 
+Para acceder al proyecto se puede descargar de la plataforma GitHub a través del siguiente link: https://github.com/LauraAVillarragaD/Challenge-Amigo-Secreto-Laura-Villarraga.git
 
 
 
