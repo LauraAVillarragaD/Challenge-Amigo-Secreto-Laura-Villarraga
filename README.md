@@ -32,11 +32,11 @@ Para acceder al proyecto se puede descargar de la plataforma GitHub a través de
   <h2 align="center"> 6. :bust_in_silhouette: Personas Contribuyentes </h2>
   Alura Latam
   
-  <h2 align="center"> 7. :: Personas Desarrolladores </h2>
+  <h2 align="center"> 7. :woman: Personas Desarrolladores </h2>
 
 [<br><sub>Laura Villarraga Díaz</sub>](https://github.com/LauraAVillarragaD)
  
- <h2 align="center"> 8. :: Conclusión </h2>
+ <h2 align="center"> 8. :pray: Conclusión </h2>
 
 Este proyecto me permitio aplicar los conocimientos adquiridos de los siguientes cursos: 
   - Lógica de programación: sumérgete en la programación con JavaScript
